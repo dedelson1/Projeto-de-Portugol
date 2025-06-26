@@ -9,7 +9,9 @@ Projeto desenvolvido em Portugol Studio para treinar lógica de programação po
 É necessário **adicionar manualmente o diretório do arquivo `.txt`** contendo as perguntas no código, para que o programa funcione corretamente.
 > Exemplo de diretório do arquivo `.txt`:  
 > `C:/Users/André Vítor/Downloads/quiz.txt`
+
 Certifique-se de informar o **caminho completo correto** do arquivo de texto no seu computador.
+
 📌 Funcionalidades
 - Leitura de perguntas de um arquivo externo  
 - Exibição de alternativas  
