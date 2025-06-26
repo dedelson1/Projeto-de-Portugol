@@ -1,0 +1,112 @@
+Quem é maior vencedor da bola de ouro ? | Esporte | 2 | Ronaldinho Gaúcho | Lionel Messi | Pelé | Cristiano Ronaldo
+Qual time é o maior campeão da champions league? | Esporte | 1 | Real Madrid | Milan | Barcelona | Bayer München
+Quantos títulos tem Lewis Hamilton na formula 1? | Esporte | 4 | 6 | 8 | 5 | 7
+Quem é o maior campeão de Grand Slams no tênis? | Esporte | 1 | Novak Djokovic | Roger Federer | Gustavo Kuerten | Rafael Nadal
+Time com mais títulos na NBA? | Esporte | 1 | Boston Celtics | Los Angeles Lakers | Chicago Bulls | Golden State Warriors
+Quem venceu a Copa do Mundo de 2018? | Esporte | 2 | Croácia | França | Bélgica | Inglaterra
+Quantos jogadores tem um time de futebol em campo? | Esporte | 3 | 10 | 12 | 11 | 9
+Qual país sediou os Jogos Olímpicos de 2016? | Esporte | 1 | Brasil | China | Reino Unido | Japão
+Quem é conhecido como “o homem mais rápido do mundo”? | Esporte | 4 | Carl Lewis | Michael Johnson | Jesse Owens | Usain Bolt
+Qual atleta tem mais medalhas olímpicas da história? | Esporte | 2 | Simone Biles | Michael Phelps | Larisa Latynina | Usain Bolt
+
+Qual data da Proclamação da República do Brasil? | História | 4 | 15 de novembro de 1899 | 15 de novembro de 1832 | 15 de novembro de 1842 | 15 de novembro de 1889
+Quanto tempo durou a guerra dos cem anos? | História | 2 | 101 anos | 116 anos | 99 anos | 100 anos
+Quem assinou a lei Áurea do Brasil? | História | 3 | Princesa Mariana Vitória | Princesa Carlota Joaquina | Princesa Isabel Cristina | Princesa Maria Leopoldina
+Quanto inicio a primeira guerra mundial | História | 4 | 11  de novembro de 1918 | 21 de abril de 1912 | 30 de março de 1913 | 28 de julho de 1914
+Qual a nacionalidade de Adolf Hitler? | História | 1 | Áustria | Alemanha | Rússia | Bélgica
+Em que ano ocorreu a Revolução Francesa? | História | 3 | 1804 | 1815 | 1789 | 1798
+Quem foi o primeiro presidente do Brasil? | História | 1 | Deodoro da Fonseca | Floriano Peixoto | Getúlio Vargas | Marechal Hermes
+O que marcou o fim da Idade Média? | História | 4 | Descobrimento do Brasil | Revolução Francesa | Queda do Império Romano | Queda de Constantinopla
+Quem foi o imperador francês conhecido por suas conquistas militares? | História | 2 | Luís XIV | Napoleão Bonaparte | Robespierre | Charles de Gaulle
+Qual era o nome do navio que trouxe a Família Real ao Brasil? | História | 1 | Príncipe Real | São João | Dom Pedro | Bragança
+
+A massa de um objeto é a propriedade que indica o quanto ele é:  | Matemática | 2 | Volumoso | Pesado | Pequeno | Resistente
+Quantos zeros tem o número de UM BILHÃO? | Matemática | 3 | Oito | Dez | Nove | Sete
+Qual é o valor de PI | Matemática | 1 | 3,14159 | 3,14169 | 3,14139 | 3,14149
+Qual resultado da multiplicação 9 x 9 | Matemática | 1 | 81 | 64 | 92 | 18
+Qual a ordem das operações? | Matemática | 3 | Multiplicação e divisão | Exponenciação e radiação | Agrupamentos | Adição e subtração
+Qual o dobro de 12? | Matemática | 2 | 22 | 24 | 26 | 28
+Quantos lados tem um decágono? | Matemática | 3 | 8 | 9 | 10 | 12
+Qual é a metade de 250? | Matemática | 1 | 125 | 130 | 115 | 120
+Quanto é 5 elevado ao quadrado? | Matemática | 4 | 20 | 15 | 10 | 25
+Qual número representa o algarismo romano “L”? | Matemática | 1 | 50 | 100 | 10 | 500
+	
+Qual país foi aberto o primeiro cinema? | Cinema | 1 | França | Estados Unidos | Brasil | Índia
+Qual ano foi lançado o primeiro filme? | Cinema | 2 | 1815 | 1895 | 1910 | 1914
+Qual filme com maior bilheteria? | Cinema | 3 | Titanic | Tropa de elite | Avatar | 11 homens e um segredo
+Em qual cidade está localizada a calçada da fama? | Cinema | 4 | California | São Francisco | Boston | Los Angeles
+Em que ano as imagens do cinema ficaram colorida? | Cinema | 1 | 1969 | 1972 | 1965 | 1975
+Qual da Hollywood Indiana? | Cinema | 2 | Indiawood | Bollywood | Brahmawood | Déliwood
+Quem foi a primeira pessoa a receber uma estrela na calçada da fama? | Cinema | 3 | Brad Pitt | Richard Gere |Joanne Woodward | Gal Gadot
+Quem dirigiu a trilogia O Senhor dos Anéis? | Cinema | 3 | James Cameron | Christopher Nolan |Peter Jackson | Steven Spielberg
+Em qual filme Leonardo DiCaprio ganhou seu primeiro Oscar de Melhor Ator? | Cinema | 2 | O Lobo de Wall Street | O Regresso |Titanic | Ilha do Medo
+Qual é o nome completo do personagem principal da saga Harry Potter? | Cinema | 1 | Harry James Potter | Harry Sirius Potter |Harry Tom Potter | Harry Alvo Potter
+
+Qual famoso físico descobriu o conceito de gravidade? | Ciência | 2 | Albert Einstein | Isaac Newton | Galileo Galilei | Niels Bohr 
+Qual famoso físico britânico escreveu Uma Breve História do Tempo? | Ciência | 3 | Richard Feynman | Paul Dirac | Stephen Hawking | Peter Higgs
+Qual é o juramento de ética que os médicos fazem em homenagem a um médico grego antigo? | Ciência | 3 | Juramento Socrático | Juramento Pitagórico | Juramento Hipocrático | Juramento Aristotélico
+Qual é o maior planeta em nosso sistema solar? | Ciência | 1 | Júpiter  | Urano | Netuno | Marte
+Qual é o planeta mais próximo do Sol? | Ciência | 4 | Terra | Marte | Vênus | Mercúrio 
+Qual é o processo pelo qual as plantas produzem seu próprio alimento? | Ciência | 2 | Respiração | Fotossíntese | Digestão | Fermentação
+Qual é a menor unidade da matéria? | Ciência | 2 | Molécula | Átomo | Elétron | Célula
+Qual cientista desenvolveu a teoria da relatividade? | Ciência | 4 | Isaac Newton | Nikola Tesla | Marie Curie | Albert Einstein
+Qual é o estado físico da água ao ferver a 100 °C no nível do mar? | Ciência | 1 | Gasoso | Plasma | Líquido | Sólido
+Qual é a principal fonte de energia para a Terra? | Ciência | 2 | Lua |  Sol | Petróleo | Vento
+
+Qual o nome da primeira internet? | Tecnologia | 2 | Speed | Arpanet | Trumpnet | Cisconet
+Quem foi o criador do MS DOS? | Tecnologia | 1 | Tim Paterson | Bill Gates | Steve Ballmer | Satyar Nadella
+Quem inventou o primeiro computador? | Tecnologia | 3 | Ada Lovelace | Alan Turing | Charles Babbage | Herman Hollerith
+Qual nome do primeiro sistema operacional? | Tecnologia | 4 | Unix | Linux | MS DOS | GM-NAA I/O
+Qual empresa inventou o mainframe? | Tecnologia | 1 | IBM | Microsoft | AMD | Cisco
+Qual o significado da sigla WWW? | Tecnologia | 2 | Wicked World Wonders | World Wide Web | What Went Wrong | Wacky Weekly Wonders
+Qual desses dispositivos é considerado uma entrada de dados? | Tecnologia | 2 | Monitor | Teclado | Impressora | Alto-falante
+Qual empresa desenvolveu o sistema Android? | Tecnologia | 2 | Apple | Google | Samsung | Microsoft
+O que significa a sigla Wi-Fi? | Tecnologia | 1 | Wireless Fidelity | Wireless Fidelity | Wired Fiber | Web Frequency
+O que significa a sigla "CPU"? | Tecnologia | 3 | Core Processor Utility | Central Power Unit | Central Processing Unit | Computer Personal Unit
+
+
+Qual apostolo negou JESUS três vezes? | Bíblico | 2 | Thiago | Pedro | Matheus | Lucas
+Quantos livros tem no novo testamento? | Bíblico | 1 | 27 | 39 | 24 | 34
+Quem traiu JESUS por 30 moedas de prata? | Bíblico | 3 | Thiago | Pedro | Judas | Lucas
+Quem recebeu a tábuas da lei no monte Sinai? | Bíblico | 4 | Josué | Arão | Abraão | Moisés
+Quem interpretou os sonhos de Faraó no Egito? | Bíblico | 1 | José | Daniel | Isaac | Salomão
+Qual rei pediu sabedoria a DEUS ao invés de riquezas? | Bíblico | 2 | Jacó | Salomão | Davi | Ezequiel
+Qual nacionalidade do gigante Golias? | Bíblico | 1 | Filisteu | Hebreu | Egípcio | Brasileiro
+Quem subiu ao céu num carro de fogo? | Bíblico | 2 | Isaías | Elias | Jeremias | Eliseu
+Qual profeta foi engolido por um grande peixe? | Bíblico | 2 | Elias | Jonas | Daniel | Obadias
+Quantos pragas DEUS enviou ao Egito? | Bíblico | 4 | 7 | 8 | 9 | 10
+
+Quem foi o primeiro presidente do Brasil? | Política | 2 | Juscelino Kubitschek | Deodoro da Fonseca | Getúlio Vargas | Marechal Floriano
+Qual o nome do poder responsável por criar as leis? | Política | 3 | Executivo | Judiciário | Legislativo | Federal
+Quantos senadores cada estado brasileiro e o DF elegem? | Política | 2 | 1 | 3 | 4 | 5
+Quem tem o poder de vetar uma lei aprovada pelo Congresso Nacional? | Política | 1 | Presidente da República | Senado Federal | STF | Governadores
+Qual dessas figuras políticas ficou conhecida pelo Plano Real? | Política | 3 | Lula | Itamar Franco | Fernando Henrique Cardoso | José Sarney
+Qual é o órgão máximo do Poder Judiciário no Brasil? | Política | 4 | TSE | TJ | STJ | STF
+Em qual ano foi promulgada a atual Constituição Brasileira? | Política | 3 | 1964 | 1978 | 1988 | 1993
+Qual cargo político administra um município? | Política | 1 | Prefeito | Deputado | Governador | Senador
+Qual desses partidos políticos é de origem brasileira? | Política | 2 | Democratas dos EUA | PL | Partido Conservador do Reino Unido | PSOE
+Quem assume a presidência se o presidente e o vice estiverem impedidos? | Política | 3 | Presidente do STF | Governador do DF | Presidente da Câmara dos Deputados | Comandante das Forças Armadas
+
+Qual é o nome do protagonista de "Naruto"? | Animes | 1 | Naruto Uzumaki | Sasuke Uchiha | Kakashi Hatake | Itachi Uchiha
+Em "Dragon Ball Z", qual é o verdadeiro nome do Goku? | Animes | 2 | Vegeta | Kakarotto | Gohan | Piccolo
+Qual é o nome do shinigami que acompanha Light em "Death Note"? | Animes | 3 | L | Rem | Ryuk | Near
+Em One Piece, qual é o sonho de Luffy? | Animes | 4 | Ser o melhor espadachim | Encontrar o pai | Ser o Rei do Céu | Ser o Rei dos Piratas
+Qual anime se passa em uma escola de heróis chamada U.A.? | Animes | 2 | One Punch Man | My Hero Academia | Bleach | Blue Exorcist
+Quem é o autor de "Attack on Titan"? | Animes | 3 | Akira Toriyama | Masashi Kishimoto | Hajime Isayama | Eiichiro Oda
+Qual desses animes tem uma criatura chamada Kurama? | Animes | 1 | Naruto | Demon Slayer | Jujutsu Kaisen | Fairy Tail
+Em "Pokémon", qual é o nome do Pokémon parceiro de Ash? | Animes | 2 | Charizard | Pikachu | Bulbasaur | Snorlax
+Qual desses animes tem como foco principal batalhas de cartas? | Animes | 4 | Hunter x Hunter | Fullmetal Alchemist | Code Geass | Yu-Gi-Oh!
+
+Quem é considerado o pai da administração científica? | Administração | 2 | Henry Fayol | Frederick Taylor | Peter Drucker | Max Weber
+Quantas funções básicas compõem o processo administrativo clássico? | Administração | 4 | Três | Duas | Seis | Quatro
+O que significa a sigla SWOT na análise estratégica? | Administração | 3 | Sistema de Orçamento de Trabalho | Estratégia e Oportunidades Técnicas | Forças, Fraquezas, Oportunidades e Ameaças | Suporte, Web, Ordem e Tática
+Qual é a principal função da liderança em uma organização? | Administração | 1 | Influenciar e motivar pessoas | Controlar processos | Planejar estratégias | Aumentar custos
+Qual dessas é uma característica da estrutura organizacional funcional? | Administração | 2 | Foco no cliente | Divisão por especialização | Baseada em produtos | Hierarquia informal
+Quem elaborou os 14 princípios da administração? | Administração | 3 | Taylor | Drucker | Fayol | Mintzberg
+Qual é a etapa do processo administrativo que define objetivos e meios para alcançá-los? | Administração | 1 | Planejamento | Controle | Organização | Execução
+O que é benchmarking? | Administração | 4 | Planejamento de carreira | Processo de demissão estratégica | Análise contábil | Comparação com as melhores práticas do mercado
+O que é cultura organizacional? | Administração | 2 | Código de ética empresarial | Conjunto de valores, crenças e normas de uma organização | Regra para planos estratégicos | Fluxograma de produção
+A teoria X e teoria Y, sobre comportamento dos trabalhadores, foi proposta por quem? | Administração | 3 | Henry Mintzberg | Fayol | Douglas McGregor | Taylor
+
+
+ 
